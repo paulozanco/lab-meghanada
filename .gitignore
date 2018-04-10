@@ -47,3 +47,6 @@ flycheck_*.el
 # c project
 *.o
 *.hl
+
+#meghanada project
+build/
